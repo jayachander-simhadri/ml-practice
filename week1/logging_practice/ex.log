@@ -1,0 +1,29 @@
+2026-02-28 16:20:27,999 - INFO - program started
+2026-02-28 16:20:27,999 - ERROR - something error occured
+2026-02-28 16:20:27,999 - WARNING - crashed
+2026-02-28 16:20:27,999 - CRITICAL - application crashed critical!!
+2026-02-28 16:25:42,875 - ERROR - error
+Traceback (most recent call last):
+  File "C:\Users\Jayac\AppData\Local\Temp\ipykernel_3560\3607710719.py", line 2, in <module>
+    x = 10/0
+        ~~^~
+ZeroDivisionError: division by zero
+2026-02-28 16:27:37,645 - INFO - checking the new Logger
+2026-02-28 16:28:35,653 - INFO - checking the new Logger
+2026-02-28 16:28:45,491 - INFO - checking the new Logger
+2026-02-28 16:28:45,491 - INFO - chk
+2026-02-28 16:32:38,168 - root - INFO - program started
+2026-02-28 16:32:38,168 - root - ERROR - something error occured
+2026-02-28 16:32:38,196 - root - WARNING - crashed
+2026-02-28 16:32:38,196 - root - CRITICAL - application crashed critical!!
+2026-02-28 16:32:51,319 - root - ERROR - error
+Traceback (most recent call last):
+  File "C:\Users\Jayac\AppData\Local\Temp\ipykernel_17000\3607710719.py", line 2, in <module>
+    x = 10/0
+        ~~^~
+ZeroDivisionError: division by zero
+2026-02-28 16:32:53,105 - __main__ - INFO - checking the new Logger
+2026-02-28 16:38:18,542 - __main__ - INFO - admin logged in successfully
+2026-02-28 16:38:18,542 - __main__ - WARNING - failed login attempt for admin
+2026-02-28 16:42:01,801 - __main__ - INFO - processing age for jaya
+2026-02-28 16:42:01,801 - __main__ - ERROR - invalid age field for kc
